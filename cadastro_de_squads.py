@@ -1,5 +1,5 @@
 """
-Neste bloco, crio uma classe chamada "Pessoa" e dou os atributos "nome" e "telefone"
+importo as classes de diferentes arquivos
 """
 from pessoa import Pessoa
 from colaborador import Colaborador
