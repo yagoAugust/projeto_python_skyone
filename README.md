@@ -48,3 +48,6 @@ Na segunda modificação, adicionei a função "title"
 para deixar uma formatação mais "correta", assim,
 independente de como o nome for escrito, ele aparecerá
 com a primeira letra maiscúla e o resto minúscula
+
+Aproveitei para trabalhar um pouco com "orientação a objetos", criando documentos separados das classes
+e as importando tudo em um só lugar, assim deixando um código mais limpo e organizado.
